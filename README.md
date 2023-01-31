@@ -1,6 +1,5 @@
 # JavaServer
 - 자바 언어로 소켓서버를 여는 코드입니다
-- 개인 공부를 하며 따라만든 코드입니다
 
 ### ClientCode
 - Client
